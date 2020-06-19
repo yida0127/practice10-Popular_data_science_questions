@@ -44,7 +44,7 @@ And if we want to include Data Engineering, we can also consider:
 - [Software Engineering](https://softwareengineering.stackexchange.com/);
 
 If we open the link in the image shared above, we'll find a complete list of Stack Exchange websites sorted by 
-percentage of questions that received answers. At the time of this writing, [Data Science Stack Exchange (DSSE)](( https://data.stackexchange.com/datascience/query/edit/1245744)) 
+percentage of questions that received answers. At the time of this writing, [Data Science Stack Exchange (DSSE)](https://data.stackexchange.com/datascience/query/edit/1245744)) 
 is on the bottom 10 sites with respect to this metric.
 
 The fact that DSSE is a data science dedicated site (contrarily to the others), coupled with it having a lot of 
